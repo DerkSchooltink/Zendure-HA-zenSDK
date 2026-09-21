@@ -1090,6 +1090,7 @@ views:
               tooltip:
                 enabledOnSeries:
                   - 0
+                  - 1
                 followCursor: true
                 shared: true
                 intersect: false
@@ -1280,6 +1281,7 @@ views:
               tooltip:
                 enabledOnSeries:
                   - 0
+                  - 1
                 followCursor: true
                 shared: true
                 intersect: false
